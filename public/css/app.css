@@ -1,0 +1,22 @@
+.description {
+    color: #65696d;
+    height: 60px;
+    overflow-y: auto;
+}
+
+.price {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.thumbnail img {
+    height: 200px;
+}
+
+.total-price {
+    text-decoration: underline;
+    font-style: oblique;
+    font-weight: bold;
+    font-size: 27px;
+    font-family: initial;
+}
